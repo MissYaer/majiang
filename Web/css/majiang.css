@@ -1,0 +1,19 @@
+
+.brand_list {
+    width: 1200px;
+    margin: 0 auto;
+    height:80px ;
+}
+
+.majiang{
+    width: 50px;
+    height: 76px;
+    border: 1px solid;
+    float: left;
+    background-size: cover;
+}
+
+.name{
+    float: left;
+}
+
